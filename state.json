@@ -1,0 +1,15 @@
+{
+  "sent_alerts": {
+    "2026-03-23:AAPL:exit:target_hit": {
+      "close": 252.06039428710938,
+      "entry": 195.0,
+      "pnl_pct": 0.2926174066005609,
+      "quantity": 0.05,
+      "reason": "target_hit",
+      "sent_at": "2026-03-23T18:52:06.013020Z",
+      "stop": 183.3,
+      "symbol": "AAPL",
+      "target": 214.5
+    }
+  }
+}
